@@ -1,0 +1,14 @@
+name: zebra
+description: Zebra is a barcode reader library for Flutter and Dart.
+version: 0.0.1
+repository: https://github.com/xclud/dart_zebra
+homepage: https://pwa.ir
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  vector_math: any
+
+dev_dependencies:
+  test: ^1.3.0
